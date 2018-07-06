@@ -1,1 +1,1 @@
-Hello world
+puts hello world
